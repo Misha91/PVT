@@ -9,5 +9,5 @@ The project is a try to make a trajectory map based on steering done and odometr
 [video](<https://youtu.be/o7q4wZjciKE>)
 
 
-Mapping example<br/>
+Mapping example for track present on the video above<br/>
 <img src="https://github.com/Misha91/PVT/blob/master/img/Peek%202019-06-01%2012-18.gif?raw=true">
